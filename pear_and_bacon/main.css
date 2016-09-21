@@ -1,0 +1,36 @@
+h1 {
+  color: cadetblue;
+}
+
+body {
+  font-size: 20px;
+  color: #666
+}
+
+/*
+  ==============================
+  Ingredients
+  ==============================
+*/
+
+.ingredients h2 {
+  color: darkgreen;
+}
+
+.ingredients p {
+  font-style: italic;
+}
+
+/*
+  ==============================
+  Directions
+  ==============================
+*/
+
+.prep h2 {
+  color: navy;
+}
+
+.prep p {
+  font-family: sans-serif;
+}
